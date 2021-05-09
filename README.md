@@ -29,6 +29,6 @@ Then install the code on any destination you want.
 3. And type the final page (which page you want to stop to saving)
     - for Example: 1 and 64
 4. And the last one type the path of images to save
-    - for Example: /DumpedImages *or* C:\Users\user\Desktop\DumpImages
+    - for Example: ./DumpedImages *or* C:\Users\user\Desktop\DumpImages
 
 5. Now you need to wait until it's over.
