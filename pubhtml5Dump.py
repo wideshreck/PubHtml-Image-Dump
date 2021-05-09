@@ -4,7 +4,7 @@ import shutil
 url = input("Url --> ")
 firstPage = int(input("First page --> "))
 finalPage = int(input("Final page --> "))
-FileDestination = input("File destination for saved images --> ")
+fileDestination = input("File destination for saved images --> ")
 
 for x in range(firstPage, finalPage):
 
