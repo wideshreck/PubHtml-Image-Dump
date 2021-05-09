@@ -1,4 +1,4 @@
-# PubHtml-Image-Dump
+# PubHtml5 Image Dump
 
 A little program for dumping images from PubHtml5
 
@@ -16,12 +16,12 @@ Then install the code on any destination you want.
 
 ### Usage
 
-to execute code:
+#### **to execute code:**
 
-- python3 (file/path/of/code/pubhtml5Dump.py) **or**
-- python (file/path/of/code/pubhtml5Dump.py)
+- python3 file/path/of/code/pubhtml5Dump.py **or**
+- python file/path/of/code/pubhtml5Dump.py
 
-after execute:
+#### **after execute:**
 
 1. First type the url
     - for Example: *https://online.pubhtml5.com/rzva/nedw*
