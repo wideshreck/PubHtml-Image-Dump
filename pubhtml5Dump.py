@@ -16,7 +16,7 @@ for x in range(firstPage, finalPage):
 
     if r.status_code == 200:
         r.raw.decode_content = True
-        with open(fileDestination,'wb') as f:
+        with open(imageDestination,'wb') as f:
             shutil.copyfileobj(r.raw, f)
         print('Image sucessfully Downloaded: ',filename)
         
