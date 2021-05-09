@@ -5,7 +5,7 @@ url = input("Url --> ")
 firstPage = int(input("First page --> "))
 finalPage = int(input("Final page --> "))
 fileDestination = input("File destination for saved images --> ")
-
+finalPage = finalPage + 1
 for x in range(firstPage, finalPage):
 
     filename = str(x) + ".jpg"
